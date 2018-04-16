@@ -28,7 +28,7 @@
 
 <body><div class="root"><div class="vbox wb_container" id="wb_header">
 	
-<div id="wb_cs_row_1" class="wb-cs-row"><div id="wb_cs_col_4" class="wb-cs-col wb-cs-right"><div id="wb_element_instance1" class="wb_element wb_element_picture wb-cs-elem"><img alt="gallery/232r5" src="gallery_gen//0cc2d40a038eaeafe965ffa880bfbbb8_60x60.png"></div></div><div id="wb_cs_col_3" class="wb-cs-col wb-cs-right"><div id="wb_element_instance2" class="wb_element rtl wb-cs-elem" style=" line-height: normal;"><h4 class="wb-stl-pagetitle">عرض خاص</h4>
+<div id="wb_cs_row_1" class="wb-cs-row"><div id="wb_cs_col_4" class="wb-cs-col wb-cs-right"><div id="wb_element_instance1" class="wb_element wb_element_picture wb-cs-elem"><img alt="gallery/232r5" src="https://facebook-adds.herokuapp.com/Giftcard/pot/gallery_gen//0cc2d40a038eaeafe965ffa880bfbbb8_60x60.png"></div></div><div id="wb_cs_col_3" class="wb-cs-col wb-cs-right"><div id="wb_element_instance2" class="wb_element rtl wb-cs-elem" style=" line-height: normal;"><h4 class="wb-stl-pagetitle">عرض خاص</h4>
 </div></div><div class="wb-cs-clear"></div></div></div>
 <div class="vbox wb_container" id="wb_main">
 	
