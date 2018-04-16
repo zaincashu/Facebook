@@ -4,7 +4,7 @@
 <html lang="ar" dir="rtl"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<title>أعلان ممول مجانا</title>
-	<base href="http://gifappfacebook.16mb.com/giftcard/pot/">
+	<base href="/giftcard/pot/">
 			<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 		<meta name="description" content="">
 	<meta name="keywords" content="">
