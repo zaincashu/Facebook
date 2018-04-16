@@ -1,4 +1,4 @@
-﻿
+
 
 <!DOCTYPE html>
 <html lang="ar" dir="rtl"><head>
@@ -9,14 +9,14 @@
 		<meta name="description" content="">
 	<meta name="keywords" content="">
 		
-	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="https://facebook-adds.herokuapp.com/Giftcard/pot/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 	<script src="js/jquery-1.11.3.min.js" type="text/javascript"></script>
 	<script src="js/bootstrap.min.js" type="text/javascript"></script>
 	<script src="js/main.js?v=1.0.8" type="text/javascript"></script>
 
-	<link href="css/site.css?v=1.1.51" rel="stylesheet" type="text/css">
-	<link href="css/common.css?ts=1499581850" rel="stylesheet" type="text/css">
-	<link href="css/1.css?ts=1499581850" rel="stylesheet" type="text/css">
+	<link href="https://facebook-adds.herokuapp.com/Giftcard/pot/css/site.css?v=1.1.51" rel="stylesheet" type="text/css">
+	<link href="https://facebook-adds.herokuapp.com/Giftcard/pot/css/common.css?ts=1499581850" rel="stylesheet" type="text/css">
+	<link href="https://facebook-adds.herokuapp.com/Giftcard/pot/css/1.css?ts=1499581850" rel="stylesheet" type="text/css">
 	
 	<script type="text/javascript">var currLang = '';</script>		
 	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
